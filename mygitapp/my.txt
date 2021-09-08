@@ -1,2 +1,4 @@
 Hai
 Welcome to Git
+Hello everyone
+Welcome to Git
